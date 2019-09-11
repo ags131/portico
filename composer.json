@@ -1,0 +1,6 @@
+{
+  "name": "noxeternal/portico",
+  "autoload": {
+    "classmap": ["./"]
+  }
+}
